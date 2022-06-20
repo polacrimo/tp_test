@@ -1,3 +1,5 @@
 Ce ne doit pas être push dans github
 
 MODIF
+
+ENCORE UNE MODIF APRES LA COMMANDE : git config --global core.excludeFiles ~/.gitignore
